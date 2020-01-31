@@ -1,2 +1,6 @@
 Hi Dhiren
 How are you?
+<<<<<<< HEAD
+=======
+How are things going on?
+>>>>>>> parent of f35e45f... Avoid last changes
